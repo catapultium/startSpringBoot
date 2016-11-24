@@ -1,4 +1,4 @@
-package com.startspring;
+package com.startspring.domain;
 
 import lombok.Getter;
 import lombok.Setter;

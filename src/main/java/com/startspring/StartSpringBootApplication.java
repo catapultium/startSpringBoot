@@ -1,5 +1,7 @@
 package com.startspring;
 
+import com.startspring.domain.Customer;
+import com.startspring.domain.CustomerRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.CommandLineRunner;

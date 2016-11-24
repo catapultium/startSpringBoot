@@ -1,4 +1,4 @@
-package com.startspring;
+package com.startspring.config;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;

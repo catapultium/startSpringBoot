@@ -1,5 +1,6 @@
-package com.startspring;
+package com.startspring.domain;
 
+import com.startspring.domain.Customer;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;

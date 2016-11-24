@@ -1,4 +1,4 @@
-package com.startspring;
+package com.startspring.web;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
