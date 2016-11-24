@@ -26,6 +26,11 @@ repositories {
 	mavenCentral()
 }
 
+// https://docs.spring.io/spring-boot/docs/current/reference/html/build-tool-plugins-gradle-plugin.html
+// DevTool 대신 사용 가능.
+bootRun {
+	addResources = true
+}
 
 dependencies {
 	compile('org.projectlombok:lombok:1.12.2')
